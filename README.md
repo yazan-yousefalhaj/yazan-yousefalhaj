@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi 👋, I'm a software engineer working on building full-stack web applications with Django & React
+
+# Technical Skills
+- Languages: Python, JavaScript, SQL, Rust.
+- Frameworks: Django, GraphQL, PostgreSQL, React.
+- Tools & DevOps: AWS, Docker, CI/CD, DataDog , Kubernetes.
 
 <!--
 **yazan-yousefalhaj/yazan-yousefalhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
